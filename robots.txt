@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uxidouwo.github.io/RKa/sitemap_index.txt
+Sitemap: https://uxidouwo.github.io/Uwx/sitemap_index.txt
+Sitemap: https://uxidouwo.github.io/ZHY/sitemap_index.txt
+Sitemap: https://uxidouwo.github.io/tdW/sitemap_index.txt
